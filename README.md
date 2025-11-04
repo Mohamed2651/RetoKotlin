@@ -30,3 +30,11 @@ El programa aplica una fórmula para estimar el **porcentaje de población con a
 
 ## 📊 Ejemplo de salida
 
+=== Cálculo de Acceso al Agua Potable ===
+Paiporta: 100.0% de acceso al agua
+Picanya: 57.5% de acceso al agua
+Sedavi: 100.0% de acceso al agua
+Población total: 15000
+Población con acceso: 13725
+Porcentaje total con acceso: 91.5% 
+=========================================
